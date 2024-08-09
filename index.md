@@ -11,11 +11,13 @@ author_profile: true
 <span style="color:grey">2024.08.05 ~ 2025.02.12</span>
 
 * [Week 1] *Pytorch*
-    * [![Daily Report](https://img.shields.io/badge/Day01-grey?style=flat)](https://kkyungyoon.github.io/boostcamp-001)
-    [![Daily Report](https://img.shields.io/badge/Day02-grey?style=flat)](https://kkyungyoon.github.io/boostcamp-002)
-    [![Daily Report](https://img.shields.io/badge/Day03-grey?style=flat)](https://kkyungyoon.github.io/boostcamp-003)
-    [![Daily Report](https://img.shields.io/badge/Day04-grey?style=flat)](https://kkyungyoon.github.io/boostcamp-004)
-    [![Daily Report](https://img.shields.io/badge/Day05-grey?style=flat)](https://kkyungyoon.github.io/boostcamp-005)
+    * [![Daily Report](https://img.shields.io/badge/Day01-green?style=flat)](https://kkyungyoon.github.io/boostcamp-001)
+    [![Daily Report](https://img.shields.io/badge/Day02-green?style=flat)](https://kkyungyoon.github.io/boostcamp-002)
+    [![Daily Report](https://img.shields.io/badge/Day03-green?style=flat)](https://kkyungyoon.github.io/boostcamp-003)
+    [![Daily Report](https://img.shields.io/badge/Day04-green?style=flat)](https://kkyungyoon.github.io/boostcamp-004)
+    [![Daily Report](https://img.shields.io/badge/Day05-green?style=flat)](https://kkyungyoon.github.io/boostcamp-005)
+    [![Daily Report](https://img.shields.io/badge/weekend01-grey?style=flat)](https://kkyungyoon.github.io/weekend-001)
+    [![Daily Report](https://img.shields.io/badge/weekend02-grey?style=flat)](https://kkyungyoon.github.io/weekend-002)
 <br><br>
 
 <!-- * [Week 2] *ML LifeCycle*
